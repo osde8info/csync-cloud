@@ -1,12 +1,12 @@
 ---
 layout: default
 title: CSYNC.CLOUD
-description: Cloud photography and open-source tools for a calm, self-hosted stack.
+description: Cloud photos & videos backup stack
 ---
 
 # CSYNC.CLOUD
 
-A sky-forward gallery with a focus on soft light, high texture, and layered motion.
+A free libre opensource cloud photos & videos backup stack
 
 <img src="https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80" alt="Sunrise light over layered clouds" style="width: 1in; height: 1in; object-fit: cover;" />
 <img src="https://images.unsplash.com/photo-1454789548928-9efd52dc4031?auto=format&fit=crop&w=1200&q=80" alt="Sunbeams breaking through clouds" style="width: 1in; height: 1in; object-fit: cover;" />
@@ -17,7 +17,7 @@ A sky-forward gallery with a focus on soft light, high texture, and layered moti
 <img src="https://images.unsplash.com/photo-1472214103451-9374bd1c798e?auto=format&fit=crop&w=1200&q=80" alt="Clouds in a deep blue sky" style="width: 1in; height: 1in; object-fit: cover;" />
 <img src="https://images.unsplash.com/photo-1501594907352-04cda38ebc29?auto=format&fit=crop&w=1200&q=80" alt="Storm clouds gathering" style="width: 1in; height: 1in; object-fit: cover;" />
 
-## Open-source highlights
+## Components
 
 - [Jellyfin](https://jellyfin.org/) media server
 - [Nextcloud](https://nextcloud.com/) private cloud
@@ -25,9 +25,9 @@ A sky-forward gallery with a focus on soft light, high texture, and layered moti
 - [Immich](https://immich.app/) photo backup
 - [Paperless-ngx](https://paperless-ngx.readthedocs.io/) document manager
 
-## Notes
+## BUY TODAY
 
-Refresh to see the gallery in a new order.
+TBD
 
 <img src="https://images.unsplash.com/photo-1500534314209-a25ddb2bd429?auto=format&fit=crop&w=1200&q=80" alt="Bright clouds over mountains" style="width: 1in; height: 1in; object-fit: cover;" />
 <img src="https://images.unsplash.com/photo-1469474968028-56623f02e42e?auto=format&fit=crop&w=1200&q=80" alt="Clouds over forest" style="width: 1in; height: 1in; object-fit: cover;" />
