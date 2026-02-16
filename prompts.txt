@@ -1,3 +1,5 @@
+“list all the prompts i gave you”
+
 create a github pages page with lots of photos of clouds 
 
 add a title of "CSYNC.CLOUD" and add links to opensource software such as smartcloud jellyfin
@@ -13,3 +15,13 @@ move 10 images to bottom of page
 remove last 2 images
 
 remove titles from gallerys
+
+“add google tag manager”
+
+“insert into jekyll default”
+
+“new layouts with gtm”
+
+“gtm id is 123456 add to repo”
+
+
