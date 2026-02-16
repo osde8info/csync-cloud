@@ -25,7 +25,7 @@ A free libre opensource cloud photos & videos backup stack
 - [Immich](https://immich.app/) photo backup
 - [Paperless-ngx](https://paperless-ngx.readthedocs.io/) document manager
 
-## BUY TODAY
+## BUY today
 
 TBD
 
