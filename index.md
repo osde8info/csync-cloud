@@ -29,6 +29,10 @@ A free libre opensource cloud photos & videos backup stack
 - [Immich](https://immich.app/) photo backup
 - [Paperless-ngx](https://paperless-ngx.readthedocs.io/) document manager
 
+## Features
+
+- FMB - Family mesh backup (P2P style redundancy)
+
 ## BUY today
 
 TBD
