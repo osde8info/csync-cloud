@@ -11,7 +11,7 @@ description: Cloud photos & videos backup stack
 
 ----
 
-# CSYNC.CLOUD
+## CSYNC.CLOUD
 
 A free libre opensource cloud photos & videos backup stack
 
