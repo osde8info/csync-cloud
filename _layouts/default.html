@@ -21,6 +21,25 @@
       <link rel="stylesheet" href="{{ style }}">
     {% endfor %}
   {% endif %}
+
+  <style>
+    .thumb-strip {
+      border-collapse: collapse;
+      table-layout: fixed;
+      width: 100%;
+    }
+
+    .thumb-strip td {
+      padding: 0.15rem;
+    }
+
+    .thumb-strip img {
+      width: 1in;
+      height: 1in;
+      object-fit: cover;
+      display: block;
+    }
+  </style>
 </head>
 
 <body>
